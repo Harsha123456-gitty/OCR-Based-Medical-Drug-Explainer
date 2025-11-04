@@ -10,8 +10,7 @@ Extracts drug names from prescription images with OCR, cleans text, matches to a
 - Explanation generation using FLAN-T5. [web:43]
 
 ## Pipeline
-![Pipeline](assets/WhatsApp-Image-2025-10-12-at-12.43.50_e92258ed.jpg) [web:50]
-
+WhatsApp Image 2025-10-12 at 12.43.50_7a178bd2.jpg
 ## Installation
 - Python ≥3.10 and git installed. [web:50]
 - Clone repo, create venv, and install requirements: [web:50]
